@@ -6,7 +6,8 @@ Library Management System
 This project is a Library Management System built using SQL.
 It helps manage books, members, employees, branches, and book issue/return records.
 
-Files Included
+
+# Files Included
 
 erd.sql → Creates tables (Branch, Employee, Books, Members, Issued Status, Return Status) with relationships.
 
@@ -18,7 +19,8 @@ CSV Files → Contain raw data for books, members, employees, issued and return 
 
 library.jpg → ER diagram image of the project.
 
-Main Features
+
+# Main Features
 
 Add new books, members, employees, and branches.
 
@@ -36,7 +38,7 @@ Total rental income by category
 
 Books not returned yet
 
-How to Run
+# How to Run
 
 Create a new database:
 
@@ -50,7 +52,7 @@ Run insert_queries.sql to add sample data.
 
 Use queries from basic sql operation.sql to perform operations and analysis.
 
-Example Query
+# Example Query
 
 Find all books in the "Classic" category:
 
